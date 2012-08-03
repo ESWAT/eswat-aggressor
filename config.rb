@@ -3,6 +3,7 @@
 ###
 
 require 'slim'
+require 'less'
 
 ###
 # Compass
